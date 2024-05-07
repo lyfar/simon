@@ -1,5 +1,5 @@
 export default {
-      logo: <span>From Startup to Exit: A Comprehensive Business Playbook - made with Lumentis</span>,
+      logo: <span>From Startup to Exit: A Comprehensive Business Playbook</span>,
       editLink: {
         component: null,
       },
@@ -13,8 +13,8 @@ export default {
         text: (
           <>
             Made with 🫶 by&nbsp;
-            <a href="https://twitter.com/hrishioa" target="_blank">
-              Hrishi - say hi!
+            <a href="https://www.instagram.com/egor.lyfar/" target="_blank">
+              Egor Lyfar
             </a>
           </>
         ),
